@@ -15,4 +15,4 @@
 
 ## Contact 📫
 
-You can [email me](mailto:joseluisalcaar@gmail.com) and sometimes on [twitter](https://twitter.com/jlalcazar)
+You can [email me](mailto:joseluisalcazar@gmail.com) and sometimes on [twitter](https://twitter.com/jlalcazar)
