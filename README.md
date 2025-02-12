@@ -12,7 +12,7 @@
 - Terraform, Cloudformation, ansible, Docker and kubernetes fan 
 - Some bash and Python coding
 - I use to attend all type of security conferences
-- Now on Artificial Generative Intelligence jobs 
+- Now on Artificial Generative Intelligence projects 
 ## Contact 📫
 
 You can [email me](mailto:joseluisalcazar@gmail.com) and sometimes on [twitter](https://twitter.com/jlalcazar)
