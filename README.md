@@ -15,4 +15,4 @@
 - Now on Artificial Generative Intelligence projects 
 ## Contact 📫
 
-You can [email me](mailto:joseluisalcazar@gmail.com) and sometimes on [twitter](https://twitter.com/jlalcazar)
+You can [email me](mailto:joseluisalcazar@gmail.com) or [job email](mailto:joseluis.alcazar.tech@bbva.com)
